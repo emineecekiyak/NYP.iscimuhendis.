@@ -1,0 +1,16 @@
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\bin\Debug\net6.0-windows\Nyp.Odev.24.10.exe
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\bin\Debug\net6.0-windows\Nyp.Odev.24.10.deps.json
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\bin\Debug\net6.0-windows\Nyp.Odev.24.10.runtimeconfig.json
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\bin\Debug\net6.0-windows\Nyp.Odev.24.10.dll
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\bin\Debug\net6.0-windows\Nyp.Odev.24.10.pdb
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\Nyp.Odev._24._10.Form1.resources
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\Nyp.Odev.24.10.csproj.GenerateResource.cache
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\Nyp.Odev.24.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\Nyp.Odev.24.10.AssemblyInfoInputs.cache
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\Nyp.Odev.24.10.AssemblyInfo.cs
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\Nyp.Odev.24.10.csproj.CoreCompileInputs.cache
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\Nyp.Odev.24.10.dll
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\refint\Nyp.Odev.24.10.dll
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\Nyp.Odev.24.10.pdb
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\Nyp.Odev.24.10.genruntimeconfig.cache
+C:\Users\ufukt\OneDrive\Desktop\C# okul\Nyp.Odev.24.10\Nyp.Odev.24.10\obj\Debug\net6.0-windows\ref\Nyp.Odev.24.10.dll
